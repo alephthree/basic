@@ -1,6 +1,7 @@
+body{
+    background-color: red;
+}
 h1{
     color: purple ;
-}
-body{
-    color: red;
+    font-size: 5em;
 }
